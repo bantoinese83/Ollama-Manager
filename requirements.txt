@@ -1,0 +1,4 @@
+ollama
+halo>=0.0.31
+loguru>=0.7.2
+
